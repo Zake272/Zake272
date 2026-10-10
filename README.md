@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Zack
 
-<!--
-**Zake272/Zake272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate (UNC Charlotte, B.S., Cybersecurity concentration) based in Charlotte, NC, working in IT and ERP support.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Systems:** Linux (CLI), Windows, Active Directory, Microsoft 365
+- **Languages:** Python, Java, C, JavaScript, HTML/CSS, SQL (MySQL)
+- **Security:** vulnerability awareness, risk assessment, incident response basics
+- **Tools:** Git and GitHub, Microsoft Excel
+
+## What I'm working on
+
+- Studying for CompTIA Security+
+- Building a Windows Server and Active Directory home lab
+- Writing small Python tools for log analysis and report automation
+
+## Certifications
+
+- Microsoft Applied Skills: Administer Active Directory Domain Services
+- freeCodeCamp: Responsive Web Design
+- freeCodeCamp: JavaScript Algorithms and Data Structures
+
+## Get in touch
+
+Email: zwillis272@gmail.com
