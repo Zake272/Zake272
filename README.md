@@ -39,5 +39,6 @@ I keep business systems running and help people get unstuck. On the side I build
 
 ### 📫 Reach me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zwillis272-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zwillis272)
 [![Portfolio](https://img.shields.io/badge/Portfolio-zake272.github.io-0f7b6c?style=flat-square)](https://zake272.github.io)
 [![Email](https://img.shields.io/badge/Email-zwillis272%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zwillis272@gmail.com)
