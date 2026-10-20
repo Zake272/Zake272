@@ -1,6 +1,6 @@
 # Hi, I'm Zack
 
-Computer Science graduate (UNC Charlotte, B.S., Cybersecurity concentration) based in Charlotte, NC, working in IT and ERP support.
+Computer Science graduate (UNC Charlotte, B.S., Cybersecurity concentration) based in Charlotte, NC. ERP Support Specialist at **Trinity Consultants** (remote).
 
 ## What I work with
 
@@ -12,8 +12,8 @@ Computer Science graduate (UNC Charlotte, B.S., Cybersecurity concentration) bas
 ## What I'm working on
 
 - Studying for CompTIA Security+
-- Building a Windows Server and Active Directory home lab
-- Writing small Python tools for log analysis and report automation
+- Building a Windows Server and Active Directory home lab: [ad-home-lab](https://github.com/Zake272/ad-home-lab)
+- Writing small Python tools for log analysis and report automation: [python-log-analyzer](https://github.com/Zake272/python-log-analyzer)
 
 ## Certifications
 
@@ -23,4 +23,5 @@ Computer Science graduate (UNC Charlotte, B.S., Cybersecurity concentration) bas
 
 ## Get in touch
 
-Email: zwillis272@gmail.com
+- Portfolio: [zake272.github.io](https://zake272.github.io)
+- Email: zwillis272@gmail.com
